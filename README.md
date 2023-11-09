@@ -2,6 +2,8 @@
 
 Project created as part of Junior Guru Challenge from [junior.guru](https://junior.guru/) Discord channel.
 
+DevJobs is an application for summarizing job listings in the IT field.
+
 Feature ideas:
 - [ ] Manually input job listings
 - [ ] Display listings in a console window
