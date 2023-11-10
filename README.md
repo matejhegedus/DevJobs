@@ -11,5 +11,6 @@ Feature ideas:
 - [ ] Scrape job listings from www.profesia.sk or a similar website
 - [ ] Display job listings on a simple webpage
 - [ ] Filter Job listings by different criteria (seniority, programming lanuage, job position...)
+- [ ] Favorite listings
 - [ ] Discord bot for new listings
 - [ ] E-mail notification about new listings
